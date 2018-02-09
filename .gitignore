@@ -95,3 +95,4 @@ waveform/libs/
 waveform/src/androidTest/
 waveform/src/main/res/drawable/
 waveform/src/test/
+.idea
